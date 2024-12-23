@@ -19,8 +19,8 @@ This project visualizes the 3D representation of electromagnetic (EM) waves usin
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository_url>
-   cd <repository_name>
+   git clone <https://github.com/ns-0437/Space-time_signal_3D>
+   cd <Space-time_signal_3D>
    ```
 
 2. **Create a virtual environment and activate it**:
