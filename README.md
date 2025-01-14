@@ -1,9 +1,9 @@
-
 # 3D Representation of Electromagnetic Waves
 
 This project visualizes the 3D representation of electromagnetic (EM) waves using Streamlit and Plotly. The application allows users to input parameters such as frequency, amplitude, phase, and wavelength to generate a dynamic 3D plot of the wave.
 
 ## Features
+
 - **Interactive Inputs**: Customize wave parameters (frequency, amplitude, phase, wavelength) through an intuitive form.
 - **3D Plotting**: Visualizes EM waves using Plotly's surface plot.
 - **Dynamic Updates**: Generates the wave based on user input in real time.
